@@ -1,0 +1,10 @@
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Console\bin\Debug\CompanyOutings_Console.exe.config
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Console\bin\Debug\CompanyOutings_Console.exe
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Console\bin\Debug\CompanyOutings_Console.pdb
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Console\obj\Debug\CompanyOutings_Console.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Console\obj\Debug\CompanyOutings_Console.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Console\obj\Debug\CompanyOutings_Console.exe
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Console\obj\Debug\CompanyOutings_Console.pdb
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Console\bin\Debug\CompanyOutings_Repository.dll
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Console\bin\Debug\CompanyOutings_Repository.pdb
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Console\obj\Debug\CompanyOutings_Console.csproj.CopyComplete

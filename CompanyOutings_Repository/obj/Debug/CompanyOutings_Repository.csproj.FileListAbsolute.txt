@@ -1,0 +1,6 @@
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Repository\bin\Debug\CompanyOutings_Repository.dll
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Repository\bin\Debug\CompanyOutings_Repository.pdb
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Repository\obj\Debug\CompanyOutings_Repository.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Repository\obj\Debug\CompanyOutings_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Repository\obj\Debug\CompanyOutings_Repository.dll
+C:\Users\Jacob\source\repos\GoldBadgeFinal\CompanyOutings_Repository\obj\Debug\CompanyOutings_Repository.pdb
